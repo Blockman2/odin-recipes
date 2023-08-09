@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is my first html project. Making a shopping list I think
